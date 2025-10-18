@@ -3,7 +3,9 @@
 **Student Number:** 217054420  
 **Subject:** PRP372S – Project Presentation 3  
 **Institution:** Cape Peninsula University of Technology 
+
 ---
+Welcome to my portfolio! This portfolio highlights my proactive approaches to professional advancement and self-discovery. Each segment focuses on a major experience, accompanied by real proof and concise insights on work ready training. My goal is to demonstrate my dedication to progress, applicable skills, and how I tackle difficulties and opportunities.
 
 ## 1. Business Communication
 
